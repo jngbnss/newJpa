@@ -1,5 +1,5 @@
 git add .
-git commit -m "데스크탑 초기설정"
+git commit -m "엔티티 클래스 개발 1"
 git push
 
 git pull
