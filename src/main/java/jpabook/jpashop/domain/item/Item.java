@@ -17,9 +17,11 @@ public abstract class Item {
     @GeneratedValue
     @Column(name = "item_id")
     private Long id;
+
     private String name;
     private int price;
     private int stockQuantity;
+
     @ManyToMany(mappedBy = "items")
-    private List<Category> categoris = new ArrayList<>();
+    private List<Category> categories = new ArrayList<>();
 }
