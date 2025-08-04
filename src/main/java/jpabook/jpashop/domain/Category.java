@@ -16,7 +16,9 @@ public class Category {
     @GeneratedValue
     @Column(name = "category_id")
     private Long id;
+
     private String name;
+
     @ManyToMany
     @JoinTable(name = "category_item",
             joinColumns = @JoinColumn(name = "category_id"),

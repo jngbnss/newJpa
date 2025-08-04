@@ -1,5 +1,5 @@
 git add .
-git commit -m "엔티티 클래스 개발 2"
+git commit -m "엔티티 클래스 개발 pdf 비교 체크 완료"
 git push
 
 git pull
