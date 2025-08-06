@@ -1,5 +1,5 @@
 git add .
-git commit -m "회원 및 상품 도메인 개발"
+git commit -m "주문 도메인 개발 진행중"
 git push
 
 git pull
