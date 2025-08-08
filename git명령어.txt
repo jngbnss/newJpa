@@ -1,5 +1,5 @@
 git add .
-git commit -m "섹션 8 웹 계츨 개발 1. 홈화면과 레이아웃 기본설정 완료"
+git commit -m "섹션 8 웹 계츨 개발 2. 회원 등록"
 git push
 
 git pull
