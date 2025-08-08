@@ -1,5 +1,5 @@
 git add .
-git commit -m "주문 서비스 테스트 완료"
+git commit -m "주문 검색 기능 개발"
 git push
 
 git pull
