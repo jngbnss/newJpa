@@ -1,5 +1,5 @@
 git add .
-git commit -m "주문 검색 기능 개발"
+git commit -m "섹션 8 웹 계츨 개발 1. 홈화면과 레이아웃 기본설정 완료"
 git push
 
 git pull
