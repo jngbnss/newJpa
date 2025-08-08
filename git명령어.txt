@@ -1,5 +1,5 @@
 git add .
-git commit -m "주문 도메인 개발 진행중"
+git commit -m "주문 서비스 테스트 완료"
 git push
 
 git pull
