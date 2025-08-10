@@ -1,5 +1,5 @@
 git add .
-git commit -m "섹션 8 웹 계츨 개발 8. 상품 주문"
+git commit -m "섹션 8 웹 계츨 개발 9. 주문 목록 검색, 취소"
 git push
 
 git pull
