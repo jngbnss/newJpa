@@ -1,5 +1,5 @@
 git add .
-git commit -m "섹션 8 웹 계츨 개발 9. 주문 목록 검색, 취소"
+git commit -m "섹션 2 API 개발 기본 5. 회원 등록 API"
 git push
 
 git pull
