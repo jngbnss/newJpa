@@ -1,5 +1,5 @@
 git add .
-git commit -m "섹션 2 API 개발 기본 6. 회원 수정 API"
+git commit -m "섹션 2 API 개발 기본 7. 회원 조회 API"
 git push
 
 git pull
