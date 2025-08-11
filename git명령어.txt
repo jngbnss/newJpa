@@ -1,5 +1,5 @@
 git add .
-git commit -m "섹션 3 9. 조회용 샘플 데이터 입력"
+git commit -m "섹션 4 10. 간단한 주문 조회 V1:엔티티를 직접 노출 "
 git push
 
 git pull
